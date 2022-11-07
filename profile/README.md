@@ -1,8 +1,9 @@
+# 💻Team JNA - Datathon FME 2022
+
 <p align="center">
-  <img width="256" height="256" src="https://raw.githubusercontent.com/JNA-DatathonFME2022/.github/126cc6840e94b64c56e0ef28c3ea1878f9b33de2/profile/assets/logo2.png">
+  <img width="1024" height="512" src="https://raw.githubusercontent.com/JNA-DatathonFME2022/.github/126cc6840e94b64c56e0ef28c3ea1878f9b33de2/profile/assets/logo2.png">
 </p>
 
-# Team JNA - Datathon FME 2022
 
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?
