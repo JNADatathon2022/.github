@@ -1,8 +1,8 @@
-# 💻Team JNA - Datathon FME 2022
-
 <p align="center">
-  <img width="1024" height="512" src="https://raw.githubusercontent.com/JNA-DatathonFME2022/.github/main/profile/assets/landscape.png">
+  <img width="1024" height="333" src="https://raw.githubusercontent.com/JNA-DatathonFME2022/.github/main/profile/assets/landscape.png">
 </p>
+
+# 💻Team JNA - Datathon FME 2022
 
 
 <!--
