@@ -5,17 +5,21 @@
 </p>
 
 ## ▶️ Introduction
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius, turpis sit amet congue lacinia, nunc felis scelerisque urna, id fermentum quam sapien at velit. Donec nec orci auctor urna tempus consectetur non in mi. 
+Hi! We are JNA and in this year's edition of the FME Datathon we presented a solution to Accenture's challenge. 
 
 ## 🧭 Project
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius, turpis sit amet congue lacinia, nunc felis scelerisque urna, id fermentum quam sapien at velit. Donec nec orci auctor urna tempus consectetur non in mi. 
+Given a database of product shipements, we were tasked to train a model to predict whether the shipment would be late or not, as well as present business insights regarding supply chain cost and emission reduction, as well as on the creation of the new Hubs. Each shipment comes from a Port and has a city as its destination, and must necessarily pass by a Hub. We not only provided the best places to create a Hub in terms of a greediness parameters (that quantifies the priority given to cost reduction as opposed to CO2 emission reduction), but also recommended the best route given the existing Hubs. 
+We used Machine Learning with the scikit-learn framework, and Graph Optimization with the networkx library.
 
 ## 🎓 Team
 
-Aliquam maximus vulputate neque, sed commodo turpis. Mauris id pharetra ante, quis laoreet mauris. Vestibulum pharetra urna sit amet dui sagittis, mattis condimentum nulla suscipit. Nunc at placerat leo. Sed molestie tortor in tincidunt porttitor.
+About us:
+We are Joel (Second year Data science student), Jan (Second year Maths+Computer science student), Nathaniel (Second year Maths+Data science student) and Alex (Second year Maths+Data science)
 
 ## 📭 Contact
 
-Aliquam euismod ultricies nulla, a suscipit purus ornare sed. Praesent vulputate, justo et rutrum molestie, turpis nisl eleifend nisi, ut maximus mi eros sed sem. Proin at viverra tellus. Curabitur vel nibh ante. Mauris laoreet molestie arcu, et viverra nulla consequat volutpat.
+Emails:
+- Joel: joel.sole.casale@gmail.com
+- Jan: jantc2003@gmail.com
+- Nathaniel: nathanielmitrani@gmail.com
+- Alex: alex.serrano.tere@estudiantat.upc.edu
