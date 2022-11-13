@@ -20,6 +20,6 @@ We are Joel (Second year Data science student), Jan (Second year Maths+Computer 
 
 Emails:
 - Joel: joel.sole.casale@gmail.com
-- Jan: jantc2003@gmail.com
+- Jan: tarrats.jan@gmail.com
 - Nathaniel: nathanielmitrani@gmail.com
 - Alex: alex.serrano.tere@estudiantat.upc.edu
