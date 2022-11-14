@@ -1,7 +1,5 @@
-# 💻 Team JNA
-
 <p align="center">
-  <img width="1024" height="333" src="https://raw.githubusercontent.com/JNA-DatathonFME2022/.github/main/profile/assets/landscape.png">
+  <img width="849" height="396" src="https://raw.githubusercontent.com/JNA-DatathonFME2022/.github/main/profile/assets/landscape.png">
 </p>
 
 ## ▶️ Introduction
@@ -26,4 +24,4 @@ Emails:
 - Joel: joel.sole.casale@gmail.com
 - Jan: tarrats.jan@gmail.com
 - Nathaniel: nathanielmitrani@gmail.com
-- Alex: alex.serrano.tere@estudiantat.upc.edu
+- Alex: alexstedev@gmail.com
