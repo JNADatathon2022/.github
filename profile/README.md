@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="849" height="396" src="https://raw.githubusercontent.com/JNADatathon2022/.github/62f4801ee6afba27cf545bc9109f75007d484963/profile/assets/logo_project.png">
+  <img width="425" height="193" src="https://raw.githubusercontent.com/JNADatathon2022/.github/62f4801ee6afba27cf545bc9109f75007d484963/profile/assets/logo_project.png">
 </p>
 
 ## ▶️ Introduction
