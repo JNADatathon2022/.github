@@ -16,7 +16,7 @@ We are:
 - Joel (Second year Data science student)
 - Jan (Second year Maths + Computer science student)
 - Nathaniel (Second year Maths + Data science student)
-- Alex (Second year Maths + Data science)
+- Alex (Second year Maths + Data science student)
 
 ## 📭 Contact
 
